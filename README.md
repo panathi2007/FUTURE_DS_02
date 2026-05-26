@@ -35,6 +35,6 @@ The data table below was built dynamically in Excel using automated logic formul
 
 ---
 
-## 📁 Repository Contents
-* 📊 `task_2_retention_analysis.xlsx`: Complete interactive workbook containing formulas, structured calculations, and the main dashboard sheet.
-* 🖼️ `Screenshot 2026-05-27 003401.png`: Visual dashboard image layout showing the trend charts side-by-side.
+## Repository Contents
+* `task_2_retention_analysis.xlsx`: Complete interactive workbook containing formulas, structured calculations, and the main dashboard sheet.
+*  `Screenshot 2026-05-27 003401.png`: Visual dashboard image layout showing the trend charts side-by-side.
